@@ -1,7 +1,8 @@
 ---
-title: BootStrap框架常用语法
-date: 2017-01-08 21:09:54
-tags: web前端
+title: BootStrap框架常用语法  
+date: 2017-01-08 21:09:54  
+tags: web前端  
+categories: bootstrap 
 ---
 # 文档结构
 - 需要使用HTML5文档结构 `<!DocType html>`

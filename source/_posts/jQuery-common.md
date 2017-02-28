@@ -1,7 +1,8 @@
 ---
-title: jQuery常用语法
-date: 2017-01-06 18:32:56
-tags: web前端
+title: jQuery常用语法  
+date: 2017-01-06 18:32:56  
+tags: web前端  
+categories: jQuery 
 ---
 >__首先附上jQuery官网__  
 __[http://jquery.com/](http://jquery.com/)__  
