@@ -1,15 +1,18 @@
 ---
+layout: photo  
 title: 百听不厌的经典歌曲  
 date: 2017-01-16 13:39:08  
 tags: 音乐  
-categories: 音乐 
+categories: 音乐  
+photos:  
+- http://www.ityyf.me/image/music01.jpg  
+- http://www.ityyf.me/image/music02.jpg
 ---
 ___
 > 柔和抒情：❤  
 激情澎湃：❤❤
 
 ___
-
 # 外文歌
 
 ## 英文

@@ -2,7 +2,7 @@
 title: cookie的常用操作  
 date: 2017-02-27 11:58:54  
 tags: web前端  
-categories: cookie   
+categories: 浏览器缓存机制   
 ---
 > JavaScript是运行在客户端的脚本，因此一般是不能够设置Session的，因为Session是运行在服务器端的。而cookie是运行在客户端的，所以可以用JS来设置cookie。
 

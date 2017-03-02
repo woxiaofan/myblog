@@ -3,16 +3,16 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: MyBlog
-subtitle:
-description:
+title: ︶ㄣ真︵
+subtitle: 爱生活，爱前端
+description: 逆水行舟，不进则退
 author: Ronnie Fan
 language: zh-Hans
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: http://www.ityyf.me
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -81,3 +81,11 @@ search:
   field: post
   format: html
   limit: 10000
+
+# 百度统计
+baidu_analytics: 99b8c5645a21a94e9ea5ae3c4eaf0b42
+# JiaThis 分享服务
+jiathis: true
+# 页面文章数量
+index_generator:
+  per_page: 5

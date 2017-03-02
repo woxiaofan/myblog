@@ -1,11 +1,13 @@
 ---
 title: about  
-date: 2017-02-28 15:47:32  
+date: 2017-02-28 15:47:32   
+comments: false 
 ---
-# 关于我
+# About Me
+___
+> web前端攻城狮，欢迎分享知识  
 
-> 一只学习web前端的小菜鸟，欢迎分享知识  
-
+> 逆水行舟，不进则退
 
 From Ronnie Fan
 ___

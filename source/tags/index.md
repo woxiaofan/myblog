@@ -1,8 +1,7 @@
 ---
-title: tags
-date: 2017-01-06 16:15:38
-type: "taps"
+title: tags  
+date: 2017-01-06 16:15:38  
+type: "tags"  
+comments: false
 ---
-[web前端](http://ityyf.me/tags/web/)  
-[个人账号](http://ityyf.me/tags/me/)
-[音乐](http://www.ityyf.me/tags/音乐/)
+ 
