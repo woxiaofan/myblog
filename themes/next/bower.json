@@ -33,4 +33,5 @@
     "jquery_lazyload": "jquery.lazyload#~1.9.7",
     "ua-parser-js": "~0.7.9"
   }
+
 }
