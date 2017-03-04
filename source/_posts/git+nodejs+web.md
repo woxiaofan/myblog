@@ -320,4 +320,5 @@ module.expotrs = app;
 }
 
 ```
-        
+
+<div class="time_updated">此文章最近更新与 2017-1-15 16:30:38</div>
