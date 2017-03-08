@@ -8,6 +8,10 @@
   </div>
 
   <aside id="sidebar" class="sidebar">
+  <div class="busuanzi">
+    {% include '../_scripts/third-party/analytics/busuanzi-counter.swig' %}
+    {% block footer %}{% endblock %}
+  </div>
     <div class="sidebar-inner">
 
       {% set display_toc = is_post and theme.toc.enable %}

@@ -2,7 +2,7 @@
 title: git+nodejs搭建web静态服务器  
 date: 2017-01-06 14:41:21  
 tags: web前端  
-categories: Node.js静态环境 
+categories: Node.js 
 ---
 # 搭建web静态服务器
 

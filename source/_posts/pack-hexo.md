@@ -1,7 +1,7 @@
 ---
 title: Hexo更换环境或者电脑  
 date: 2017-03-05 15:54:30  
-categories: "Hexo博客"  
+categories: "Hexo"  
 tags: web前端
 ---
 

@@ -3,7 +3,7 @@ layout: photo
 title: particles.js创造页面整体背景效果图  
 date: 2017-03-03 12:14:39  
 tags: "web前端"  
-categories: "Hexo博客"  
+categories: "Hexo"  
 photos:  
 - http://www.ityyf.me/image/particles01.jpg  
 - http://www.ityyf.me/image/particles02.jpg

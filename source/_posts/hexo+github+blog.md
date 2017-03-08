@@ -2,7 +2,7 @@
 title: hexo+github博客搭建简易步骤  
 date: 2017-01-06 13:14:58  
 tags: web前端  
-categories: "Hexo博客"    
+categories: "Hexo"    
 ---
 > 1.首先你得有一个自己的github账户[教学点击这里](http://wiki.jikexueyuan.com/project/github-basics/sign-up.html)  
 2.其次你要拥有git和nodejs的环境配置，这里就不详细介绍了
