@@ -307,7 +307,7 @@ busuanzi_count:
   enable: true
   # custom uv span for the whole site
   site_uv: true
-  site_uv_header: <i class="fa fa-user"> 站点访问</i>
+  site_uv_header: <i class="fa fa-user"> 访客量</i>
   site_uv_footer: 次
   # custom pv span for the whole site
   site_pv: false
@@ -315,14 +315,15 @@ busuanzi_count:
   site_pv_footer:
   # custom pv span for one page only
   page_pv: true
-  page_pv_header: <i class="fa fa-file-o">文章阅读量</i>
-  page_pv_footer: 人次
+  #page_pv_header: <i class="fa fa-file-o">文章阅读量</i>
+  page_pv_header: <i class="fa fa-eye"> 阅读量</i>
+  page_pv_footer: 次
 
 # Tencent analytics ID
 # tencent_analytics:
 
 # Enable baidu push so that the blog will push the url to baidu automatically which is very helpful for SEO
-baidu_push: false
+baidu_push: true
 
 
 
