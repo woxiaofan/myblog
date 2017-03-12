@@ -2,7 +2,7 @@
 layout: photo  
 title: 百听不厌的经典歌曲  
 date: 2017-01-16 13:39:08  
-tags: 音乐  
+tags: 休闲娱乐  
 categories: 音乐  
 photos:  
 - http://www.ityyf.me/image/music01.jpg  
