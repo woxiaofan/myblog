@@ -15,7 +15,8 @@ categories: "Hexo"
 - `hexo init` *初始化hexo*
 - `npm install` *安装依赖*
 - `npm install hexo-deployer-git –save` *安装git发布插件*
-- 创建github仓库，用户名.github.io
+- 创建github仓库，用户名.github.io<!--more-->
+
 - 配置 _config.yml，添加如下：
 ```yaml
     deploy:
@@ -29,7 +30,7 @@ categories: "Hexo"
 - hexo n 'name' 新建blog
 - 访问路径 用户名.github.io
 
-# github二级域名访问页面<!--more-->
+# github二级域名访问页面
 - 修改github项目结构，确保主目录下有一个index.html文件（非必要）
 - 在github里创建一个名叫gh-pages的特定分支
 - 直接在浏览器中输入<用户名.github.io/项目文件名[/index.html]>

@@ -11,6 +11,7 @@ categories: bootstrap
 ```html
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1,initial-scale=1.0"/>
 ```
+<!--more-->
 - 引入BootStrap
     - 引入css，当有自己的css文档，应引入bootstrap.css后再引入自己编写额css文件
     - 引入jQuery.js再引入bootstrap.js
@@ -28,7 +29,7 @@ categories: bootstrap
         
 ## 内联表单
 - 给form添加类名form-inline
-<!--more-->
+
 ## 水平表单
 - 给form添加类名form-horizontal
 - 给标签label添加类名control-label

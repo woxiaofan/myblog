@@ -13,6 +13,8 @@ ___
 激情澎湃：❤❤
 
 ___
+
+<!--more-->
 # 外文歌
 
 ## 英文
@@ -39,7 +41,7 @@ ___
 - _Mark Ronson、bruno Mars_ - __Uptown Funk__ ❤❤
 - _Westlife_ - __My Love__
 - _Michael Learns to Rock_ - __Take Me To Your Heart__ ❤❤
-- _Gareth Gates_ - __Anyone Of Us(stupid Mistake)__<!--more-->
+- _Gareth Gates_ - __Anyone Of Us(stupid Mistake)__
 - _Deutschland Sucht Den Superstar_ - __Cry On My Shoulder__
 - _Groove Coverage_ - __She__ ❤
 - _曲婉婷_ - __Drenched__

@@ -8,7 +8,7 @@ categories: 浏览器缓存机制
 
 
 假设有这样一种情况，在某个用例流程中，由A页面跳至B页面，若在A页面中采用JS用变量temp保存了某一变量的值，在B页面的时候，同样需要使用JS来引用temp的变量值，对于JS中的全局变量或者静态变量的生命周期是有限的，当发生页面跳转或者页面关闭的时候，这些变量的值会重新载入，即没有达到保存的效果。解决这个问题的最好的方案是采用cookie来保存该变量的值，那么如何来设置和读取cookie呢？
-
+<!--more-->
 首先需要稍微了解一下cookie的结构，简单地说：cookie是以键值对的形式保存的，即key=value的格式。各个cookie之间一般是以“;”分隔。
 
 # JS设置cookie
@@ -29,7 +29,7 @@ function setCookie(name,value){
 }
 ```
 
-# JS读取cookie<!--more-->
+# JS读取cookie
 
 假设cookie中存储的内容为：username=yyf;password=123
 
